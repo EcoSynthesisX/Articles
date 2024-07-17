@@ -1,4 +1,4 @@
-# Taking Notes on the Development of the Global Impact Market: How Blockchain Opened the Way to Capitalization of Public Good
+# Taking Notes on the Development of the Global Impact Market
 
 This article is the first in a series dedicated to EcoSynthesisX's vision of the Global Impact Market, a future where public goods become liquid. This series aims to highlight practical steps to achieve this vision.
 
