@@ -1,6 +1,6 @@
 # Taking Notes on the Development of the Global Impact Market: How Blockchain Opened the Way to Capitalization of Public Good
 
-This article is the first in a series dedicated to EcoSynthesisX's vision of the Global Impact Market, a future where public goods become liquid assets. This series aims to highlight practical steps to achieve this vision.
+This article is the first in a series dedicated to EcoSynthesisX's vision of the Global Impact Market, a future where public goods become liquid. This series aims to highlight practical steps to achieve this vision.
 
 ### Status Quo
 
@@ -14,7 +14,7 @@ The primary issue is funding. Many, if not all, nonprofits aim to create an impa
 
 What can we do to empower and boost nonprofits in terms of funding?
 
-You might ask, "What about the Impact Products they produce? Why not sell these products?"
+You might ask, "What about the products they produce? Why not sell these products?"
 
 This is precisely what our solution addresses! However, there are several problems or gaps we need to fill:
 
@@ -25,12 +25,12 @@ This is precisely what our solution addresses! However, there are several proble
 
 ### Examples of Solutions
 
-To address these issues, we have designed the following solutions in the form of an MVP with further marketing and adaptation strategies. Some of these solutions are already available, like the [Clean Phangan Impact Product](https://cleanphangan.impactnft.xyz/). Others are in development, such as the [EcoThailand Foundation Impact Product sneak peek](https://x.com/EcoSynthesisX/status/1813454141592920462) and Impact Marketplace. Some are in a low-priority mode, waiting for the right time, like Impact Onchain Rank.
+To address those issues, we have designed the following solutions in the form of an MVP with further marketing and adaptation strategies. Some of these solutions are already available, like the [Clean Phangan Impact Product](https://cleanphangan.impactnft.xyz/). Others are in development, such as the [EcoThailand Foundation Impact Product sneak peek](https://x.com/EcoSynthesisX/status/1813454141592920462) and Impact Marketplace. Some are in a low-priority mode, waiting for the right time, like Impact Onchain Rank.
 
 Let's look at them in detail:
 
 1. **Local On-Ground Onboarding**: Though not directly related to EcoSynthesisX activities, this is executed by local web3 activists working on the ground, like [ReFi DAO Nodes](https://www.refidao.com/) or [GreenPill Network](https://greenpill.network/). Our impact here involves promotion and engagement with other projects like the ones mentioned above.
-2. **Impact Product**: Aims to package and digitally represent the Impact Products produced by nonprofits.
+2. **Impact Product (aka ImpactNFT)**: Aims to package and digitally represent the Impact Products produced by nonprofits.
 3. **Impact Marketplace**: Provides a dedicated space to buy and sell Impact Products for causes you support. It also offers incentive mechanics for Impact Product holders.
 4. **Impact Onchain Rank**: Aims to provide a reputation score and allow users to build their on-chain reputation by supporting good deeds like buying Impact Products. Partnerships with current human verification tools like [Gitcoin Passport](https://passport.gitcoin.co/) will help increase the demand for Impact Products.
 
